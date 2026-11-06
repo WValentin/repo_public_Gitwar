@@ -1,0 +1,5 @@
+def adition (a,b=1):
+    print (a+b)
+
+adition(2,3)
+adition(2)
