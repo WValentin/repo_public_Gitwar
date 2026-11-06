@@ -15,5 +15,5 @@ def my_sort(L: list):
     print("Nombre de coups : ", coups)
     return L
 
-mylist = [12, 9, 67, 45, 23, 6]
+mylist = [12, 9, 67, 45, 23, 6)
 print(my_sort(mylist))
