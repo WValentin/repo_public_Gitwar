@@ -1,6 +1,6 @@
-def ajoutt():
+def ajjoutt():
     fruits = ["pomme", "cerise", "orange"]
-    fruits("Melon")
+    fruits["Melon")
     print(coucou)
 
 
