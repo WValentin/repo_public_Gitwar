@@ -1,7 +1,7 @@
-width = int(input("Veuillez entrer la longueur : "))
-height = int(input("Veuillez entrer la hauteur : "))
+  int(input("Veuillez entrer la longueur : "))
+  int(input("Veuillez entrer la hauteur : "))
 
-def draw_rectangle(x,y):
+def draw_rectangle(x,y,6):
     i = 0
     print("|", "-"*x, "|")
     for i in range(y):
@@ -9,4 +9,3 @@ def draw_rectangle(x,y):
     print("|", "-"*x, "|")
 
 print("Le rectangle de longueur = ", width, "et de hauteur = ", height, " :")
-draw_rectangle(width, height)
