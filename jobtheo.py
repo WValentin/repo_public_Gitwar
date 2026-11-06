@@ -1,7 +1,7 @@
-def ajouter_fruit():
+def ajoutt():
     fruits = ["pomme", "cerise", "orange"]
-    fruits.append("Melon")
-    print(fruits)
+    fruits("Melon")
+    print(coucou)
 
 
 ajouter_fruit()
